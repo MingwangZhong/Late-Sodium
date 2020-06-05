@@ -26,7 +26,7 @@ LQT2 myocyte with normal I<sub>NaL</sub> at [Na<sup>+</sup>]<sub>i</sub> = 10.75
 ./cell  0  0.08  486 1 10.8 0.34 1.17 0.01
 ```
 
-LQT2 myocyte with fully blocked I<sub>NaL</sub> at [Na<sup>+</sup>]<sub>i</sub> = 5.34 mM:
+LQT2 myocyte with I<sub>NaL</sub> fully blocked at [Na<sup>+</sup>]<sub>i</sub> = 5.34 mM:
 ```
 ./cell  0  0.08  374 1 5.2 0.34 1.17 0
 ```
