@@ -21,12 +21,12 @@ nvcc cell.cu -O3 -lm -arch sm_30  -o cell -w
 
 #### Run the code
 
-LQT2 myocyte with normal I<sub>NaL</sub> at [Na<sup>+</sup>]<sub>i</sub> = 10.5 mM:
+LQT2 myocyte with normal I<sub>NaL</sub> at [Na<sup>+</sup>]<sub>i</sub> = 10.75 mM:
 ```
-./cell 0 hyper.txt 1.0 470 1.0 3.4 10.5 16.0 0.7 0.025
+./cell  0  0.08  486 1 10.8 0.34 1.17 0.01
 ```
 
-LQT2 myocyte with partially blocked I<sub>NaL</sub> at [Na<sup>+</sup>]<sub>i</sub> = 5.2 mM:
+LQT2 myocyte with fully blocked I<sub>NaL</sub> at [Na<sup>+</sup>]<sub>i</sub> = 5.34 mM:
 ```
-./cell 0 hyper.txt 1.0 370 1.0 3.4 5.2 16.0 0.7 0.022
+./cell  0  0.08  374 1 5.2 0.34 1.17 0
 ```
