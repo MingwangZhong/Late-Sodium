@@ -2,7 +2,7 @@
 
 This code is an investigation of the effect of late sodium current on action potential duration and EAD formation in LQT2 myocytes, described in:
 
-* Late INa blocker GS967 Reduced Early Afterdepolarization and Polymorphic VT in a Transgenic Rabbit Model of Long QT Type 2 Jungmin Hwang, Tae Yun Kim, Dmitry Terentyev, Mingwang Zhong, Anatoli Kabakov, Karuppiah Arunachalam, Luiz Belardinelli, Sridharan Rajamani, Yukiko Kunitomo, Zachary Pfeiffer, Yichun Lu, Xuwen Peng, Katja Odening, Zhilin Qu, Alain Karma, Gideon Koren, Bum-Rak Choi (2018)
+* Late INa blocker GS967 Reduced Early Afterdepolarization and Polymorphic VT in a Transgenic Rabbit Model of Long QT Type 2 Jungmin Hwang, Tae Yun Kim, Dmitry Terentyev, Mingwang Zhong, Anatoli Kabakov, Karuppiah Arunachalam, Luiz Belardinelli, Sridharan Rajamani, Yukiko Kunitomo, Zachary Pfeiffer, Yichun Lu, Xuwen Peng, Katja Odening, Zhilin Qu, Alain Karma, Gideon Koren, Bum-Rak Choi (2020)
 
 This code is based on an earlier implementation of a similar model described in:
 
