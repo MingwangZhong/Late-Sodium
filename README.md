@@ -30,3 +30,8 @@ LQT2 myocyte with fully blocked I<sub>NaL</sub> at [Na<sup>+</sup>]<sub>i</sub> 
 ```
 ./cell  0  0.08  374 1 5.2 0.34 1.17 0
 ```
+
+### Results
+The above two sets of parameters produce the thick blue and thin red lines in the following figure.
+
+![result](figure6.pdf)
