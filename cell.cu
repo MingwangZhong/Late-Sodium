@@ -1,3 +1,39 @@
+/*---------------------------------------------------------------
+*
+* This code is based on the Restrepo et al (2008) model, and improved 
+* by Terentyev et al (2014) and Mingwang et al (2018). It is modified
+* by CIRCS group of Northeastern University.
+*
+* Contact Information:
+* 
+* Center for interdisciplinary research on complex systems
+* Departments of Physics, Northeastern University
+* 
+* Alain Karma		a.karma (at) northeastern.edu
+*
+* The code was used to produce Fig. 6 in:
+* Late INa blocker GS967 Reduced Early Afterdepolarization and 
+* Polymorphic VT in a Transgenic Rabbit Model of Long QT Type 2 
+* Jungmin Hwang, Tae Yun Kim, Dmitry Terentyev, Mingwang Zhong, 
+* Anatoli Kabakov, Karuppiah Arunachalam, Luiz Belardinelli, 
+* Sridharan Rajamani, Yukiko Kunitomo, Zachary Pfeiffer, Yichun Lu, 
+* Xuwen Peng, Katja Odening, Zhilin Qu, Alain Karma, Gideon Koren, 
+* Bum-Rak Choi (2018)
+*--------------------------------------------------------------- */
+/*---------------------------------------------------------------
+* Terentyev, D., Rees, C. M., Li, W., Cooper, L. L., Jindal, H. K., 
+* Peng, X., ... & Bist, K. (2014). Hyperphosphorylation of RyRs 
+* underlies triggered activity in transgenic rabbit model of LQT2 
+* syndrome. Circulation research, 115(11), 919-928.
+* ---------------------------------------------------------------*/
+/*---------------------------------------------------------------
+* Zhong, M., Rees, C.M., Terentyev, D., Choi, B.-R., Koren, G., 
+* & Karma, A. (2018). NCX-mediated subcellular Ca2+ dynamics 
+* underlying early afterdepolarizations in LQT2 cardiomyocytes. 
+* Biophysical journal
+* ---------------------------------------------------------------*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
